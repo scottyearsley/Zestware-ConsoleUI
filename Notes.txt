@@ -1,0 +1,3 @@
+https://www.codeproject.com/articles/20435/using-c-to-generate-ascii-art-from-an-image
+http://www.c-sharpcorner.com/uploadfile/b942f9/creating-a-console-listbox-in-C-Sharp/
+https://en.wikipedia.org/wiki/Box-drawing_character
